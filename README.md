@@ -24,6 +24,20 @@ Calculates from total years a breakdown of years, months, days, hours, minutes.
 Builds a response message only for units above 0. If 0 years, doesn't mention years.  
 If followage time is less than a minute, result is "0 minutes" followage.  
 
+## twitch-command-sleeper-mods.json  
+
+Mods can chat without badge/role. Then, give themselves mod role when needed.
+
+Store list of approved chat mods in the Default Variables array
+
+Chatter can type !modme and the button will check the list
+
+If approved, the chatter is assigned mod role
+
+If not approved, a chat message will say they are not approved.
+
+Mods can use Twitch's native /unmod username command to unmod themselves.
+
 ## Disclaimer
 
 This is an unofficial community project. I am not affiliated with 

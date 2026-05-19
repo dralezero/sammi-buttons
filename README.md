@@ -24,6 +24,14 @@ Calculates from total years a breakdown of years, months, days, hours, minutes.
 Builds a response message only for units above 0. If 0 years, doesn't mention years.  
 If followage time is less than a minute, result is "0 minutes" followage.  
 
+## walkons.json
+
+Create source in OBS (image/gif/video/sound) named: walkon-username
+
+Edit Default Variables list of chatters with walk ons
+
+Button will match chatter's message with list and then turn visibility of matching source on for N seconds. 
+
 ## twitch-command-sleeper-mods.json  
 
 Mods can chat without badge/role. Then, give themselves mod role when needed.

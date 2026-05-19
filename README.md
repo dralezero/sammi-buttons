@@ -32,7 +32,7 @@ Edit Default Variables list of chatters with walk ons
 
 Button will match chatter's message with list and then turn visibility of matching source on for N seconds. 
 
-For Subs only, check trigger option. Only need to add chatter to list once. Don't need to remove from list. 
+For Subs only, check trigger option. Keep chatter in the list and the sub only trigger will control walkon or not.
 
 ## twitch-command-sleeper-mods.json  
 

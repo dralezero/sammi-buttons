@@ -32,6 +32,8 @@ Edit Default Variables list of chatters with walk ons
 
 Button will match chatter's message with list and then turn visibility of matching source on for N seconds. 
 
+For Subs only, check trigger option. Only need to add chatter to list once. Don't need to remove from list. 
+
 ## twitch-command-sleeper-mods.json  
 
 Mods can chat without badge/role. Then, give themselves mod role when needed.
